@@ -11,6 +11,9 @@ padding: 12px;
 }
 #abs {
 position: absolute;
+top: 0px;
+right: 0px;
+width: 2%;
 }
 
 @media (min-width: 992px) {
