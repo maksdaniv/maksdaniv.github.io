@@ -15,7 +15,11 @@ position: absolute;
 top: 0px;
 right: 0px;
 width: 40%;
+height: 17%;
 background: orange;
+}
+#absp {
+text-align: center;
 }
 
 @media (min-width: 992px) {
