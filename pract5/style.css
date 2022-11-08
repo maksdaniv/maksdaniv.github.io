@@ -5,7 +5,7 @@ text-align: center;
 width: 100%;
 }
 #d {
-position: static;
+position: relative;
 border: 1px solid black;
 margin: 30px;
 padding: 12px;
