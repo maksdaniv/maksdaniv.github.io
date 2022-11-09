@@ -6,20 +6,45 @@ width: 100%;
 }
 #d {
 position: relative;
-border: 1px solid black;
+border: 3px solid black;
 margin: 30px;
 padding: 12px;
+background: #D4FFC3;
 }
 #abs {
 position: absolute;
-top: 0px;
-right: 0px;
-width: 40%;
-height: 17%;
+top: -3px;
+right: -3px;
+width: 120px;
+height: 20px;
 background: orange;
-border: 1px solid black;
+border: 3px solid black;
+}
+#abs2 {
+position: absolute;
+top: -3px;
+right: -3px;
+width: 120px;
+height: 20px;
+background: magenta;
+color: white;
+border: 3px solid black;
+}
+#abs3 {
+position: absolute;
+top: -3px;
+right: -3px;
+width: 120px;
+height: 20px;
+background: #FFCEC3;
+border: 3px solid black;
 }
 #absp {
+position: relative;
+text-align: center;
+bottom: 80%;
+}
+#absp3 {
 position: relative;
 text-align: center;
 bottom: 90%;
