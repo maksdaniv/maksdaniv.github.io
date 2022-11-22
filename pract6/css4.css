@@ -36,9 +36,6 @@ h1 {
         #holovna {
             font-style: italic;
         }
-        h2 {
-            text-align: center;
-        }
         table, th, td {
             border: 1px solid;
         }
@@ -62,7 +59,7 @@ h1 {
         #holovna {
             text-style: italic;
         }
-        h2 {
+        h21 {
             text-align: center;
         }
         #uno {
