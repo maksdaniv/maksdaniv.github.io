@@ -1,1 +1,30 @@
 
+button {
+    background-color: blue;
+    color: pink;
+    width: 100px;
+    } 
+    button:hover {
+    background-color: magenta;
+    color: yellow;
+    }
+    button:focus {
+    background-color: yellow;
+    color: red;
+    }
+ .h {
+        background-color:gray;
+        }
+        table, th, td {
+        border: 1px solid;
+        }
+        td {
+        padding-left: 10px;
+        padding-right: 10px;
+        }
+.h {
+        background-color:gray;
+        }
+        .g:hover {
+        text-decoration:underline;
+        }
