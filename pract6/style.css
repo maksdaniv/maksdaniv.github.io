@@ -7,37 +7,8 @@ width: 100%;
 #d {
 position: relative;
 border: 3px solid black;
-margin: 30px;
 padding: 12px;
 background: #D4FFC3;
-}
-#abs {
-position: absolute;
-top: -3px;
-right: -3px;
-width: 120px;
-height: 20px;
-background: orange;
-border: 3px solid black;
-}
-#abs2 {
-position: absolute;
-top: -3px;
-right: -3px;
-width: 120px;
-height: 20px;
-background: magenta;
-color: white;
-border: 3px solid black;
-}
-#abs3 {
-position: absolute;
-top: -3px;
-right: -3px;
-width: 120px;
-height: 20px;
-background: #FFCEC3;
-border: 3px solid black;
 }
 #absp {
 position: relative;
