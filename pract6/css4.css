@@ -84,18 +84,12 @@ h1 {
         .g:hover {
             text-decoration:underline;
         }
- .h {
-        background-color:gray;
-        }
         table, th, td {
         border: 1px solid;
         }
         td {
         padding-left: 10px;
         padding-right: 10px;
-        }
-.h {
-        background-color:gray;
         }
         .g:hover {
         text-decoration:underline;
