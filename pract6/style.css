@@ -1,0 +1,182 @@
+#h {
+text-align: center;
+}
+.row {
+width: 100%;
+}
+#d {
+position: relative;
+border: 3px solid black;
+margin: 30px;
+padding: 12px;
+background: #D4FFC3;
+}
+#abs {
+position: absolute;
+top: -3px;
+right: -3px;
+width: 120px;
+height: 20px;
+background: orange;
+border: 3px solid black;
+}
+#abs2 {
+position: absolute;
+top: -3px;
+right: -3px;
+width: 120px;
+height: 20px;
+background: magenta;
+color: white;
+border: 3px solid black;
+}
+#abs3 {
+position: absolute;
+top: -3px;
+right: -3px;
+width: 120px;
+height: 20px;
+background: #FFCEC3;
+border: 3px solid black;
+}
+#absp {
+position: relative;
+text-align: center;
+bottom: 80%;
+}
+#absp3 {
+position: relative;
+text-align: center;
+bottom: 90%;
+}
+
+@media (min-width: 992px) {
+.col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8,
+.col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
+float: left;
+border: 1px solid green;
+}
+.col-lg-1 {
+width: 8.33%;
+}
+.col-lg-2 {
+width: 16.66%;
+}
+.col-lg-3 {
+width: 25%;
+}
+.col-lg-4 {
+width: 33.33%;
+}
+.col-lg-5 {
+width: 41.66%;
+}
+.col-lg-6 {
+width: 50%;
+}
+
+.col-lg-7 {
+width: 58.33%;
+}
+.col-lg-8 {
+width: 66.66%;
+}
+.col-lg-9 {
+width: 75%;
+}
+.col-lg-10 {
+width: 83.33%;
+}
+.col-lg-11 {
+width: 91.66%;
+}
+.col-lg-12 {
+width: 100%;
+}
+}
+@media (min-width: 768px) and (max-width: 992px) {
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8,
+.col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+float: left;
+border: 1px solid green;
+}
+.col-md-1 {
+width: 8.33%;
+}
+.col-md-2 {
+width: 16.66%;
+}
+.col-md-3 {
+width: 25%;
+}
+.col-md-4 {
+width: 33.33%;
+}
+.col-md-5 {
+width: 41.66%;
+}
+.col-md-6 {
+width: 50%;
+}
+.col-md-7 {
+width: 58.33%;
+}
+.col-md-8 {
+width: 66.66%;
+}
+.col-md-9 {
+width: 75%;
+}
+.col-md-10 {
+width: 83.33%;
+}
+.col-md-11 {
+width: 91.66%;
+}
+.col-md-12 {
+width: 100%;
+}
+}
+@media (max-width: 768px) {
+.col-rt-1, .col-rt-2, .col-rt-3, .col-rt-4, .col-rt-5, .col-rt-6, .col-rt-7, .col-rt-8,
+.col-rt-9, .col-rt-10, .col-rt-11, .col-rt-12 {
+float: left;
+border: 1px solid green;
+}
+.col-rt-1 {
+width: 8.33%;
+}
+.col-rt-2 {
+width: 16.66%;
+}
+.col-rt-3 {
+width: 25%;
+}
+.col-rt-4 {
+width: 33.33%;
+}
+.col-rt-5 {
+width: 41.66%;
+}
+.col-rt-6 {
+width: 50%;
+}
+.col-rt-7 {
+width: 58.33%;
+}
+.col-rt-8 {
+width: 66.66%;
+}
+.col-rt-9 {
+width: 75%;
+}
+.col-rt-10 {
+width: 83.33%;
+}
+.col-rt-11 {
+width: 91.66%;
+}
+.col-rt-12 {
+width: 100%;
+}
+}
