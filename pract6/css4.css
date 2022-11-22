@@ -84,10 +84,6 @@ h1 {
         .g:hover {
             text-decoration:underline;
         }
-        td {
-        padding-left: 10px;
-        padding-right: 10px;
-        }
         .g:hover {
         text-decoration:underline;
         }
