@@ -140,6 +140,12 @@ width: 91.66%;
 .col-md-12 {
 width: 100%;
 }
+th {
+  font-size: 120%;
+}
+td {
+  font-size: 110%;
+}
 }
 @media (max-width: 768px) {
 .col-rt-1, .col-rt-2, .col-rt-3, .col-rt-4, .col-rt-5, .col-rt-6, .col-rt-7, .col-rt-8,
@@ -182,5 +188,11 @@ width: 91.66%;
 }
 .col-rt-12 {
 width: 100%;
+}
+th {
+  font-size: 110%;
+}
+td {
+  font-size: 100%;
 }
 }
