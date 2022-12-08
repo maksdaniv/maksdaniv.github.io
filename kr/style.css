@@ -21,6 +21,6 @@
   width: 1000px;
   border: 1px;
 }
-table {
+table, td {
   border: 1px solid;
 }
