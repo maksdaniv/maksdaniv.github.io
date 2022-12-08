@@ -27,3 +27,12 @@ table, td, th {
 table {
   border-collapse: collapse;
 }
+.f1 {
+  font-family: "Roboto";
+}
+.f2 {
+  font-family: "Open+Sans";
+}
+.f3 {
+  font-family: "Roboto";
+}
