@@ -14,6 +14,9 @@
   background-color: #41B3A3;
   color: #BBCB50;
 }
+#h {
+  font-size: 1.2em;
+}
 .box {
   width: 1000px;
   border: 1px;
