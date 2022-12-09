@@ -21,6 +21,10 @@
   width: 1000px;
   border: 1px;
 }
+.boxh {
+  width: 100px;
+  height: 50px;
+}
 table, td, th {
   border: 1px solid;
 }
