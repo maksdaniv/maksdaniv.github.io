@@ -21,10 +21,25 @@
   width: 1000px;
   border: 1px;
 }
-.boxh {
+.boxh1 {
   width: 30%;
   height: 25px;
-  background-color: gray;
+  background-color: #00539CFF;
+}
+.boxh2 {
+  width: 30%;
+  height: 25px;
+  background-color: white;
+}
+.boxh3 {
+  width: 30%;
+  height: 25px;
+  background-color: #EED971FF;
+}
+.boxh4 {
+  width: 30%;
+  height: 25px;
+  background-color: #AA96DA;
 }
 table, td, th {
   border: 1px solid;
