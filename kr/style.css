@@ -27,24 +27,31 @@
   height: 25px;
   background-color: #00539CFF;
   bottom: 0%;
+  right: 0%;
   position: absolute;
 }
 .boxh2 {
   width: 30%;
   height: 25px;
   background-color: white;
+  bottom: 0%;
+  right: 0%;
   position: absolute;
 }
 .boxh3 {
   width: 30%;
   height: 25px;
   background-color: #EED971FF;
+  bottom: 0%;
+  right: 0%;
   position: absolute;
 }
 .boxh4 {
   width: 30%;
   height: 25px;
   background-color: #AA96DA;
+  bottom: 0%;
+  right: 0%;
   position: absolute;
 }
 table, td, th {
