@@ -123,7 +123,7 @@ width: 100%;
 .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8,
 .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
 float: left;
-border: 1px solid green;
+height: 300px;
 }
 .col-md-1 {
 width: 8.33%;
@@ -166,7 +166,7 @@ width: 100%;
 .col-rt-1, .col-rt-2, .col-rt-3, .col-rt-4, .col-rt-5, .col-rt-6, .col-rt-7, .col-rt-8,
 .col-rt-9, .col-rt-10, .col-rt-11, .col-rt-12 {
 float: left;
-border: 1px solid green;
+height: 300px;
 }
 .col-rt-1 {
 width: 8.33%;
