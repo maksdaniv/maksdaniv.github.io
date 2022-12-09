@@ -24,6 +24,7 @@
 .boxh {
   width: 100px;
   height: 50px;
+  background-color: gray;
 }
 table, td, th {
   border: 1px solid;
