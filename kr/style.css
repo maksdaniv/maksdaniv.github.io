@@ -20,6 +20,7 @@
 .box {
   width: 1000px;
   border: 1px;
+  position: relative;
 }
 .boxh1 {
   width: 30%;
