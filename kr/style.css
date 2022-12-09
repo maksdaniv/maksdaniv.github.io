@@ -80,6 +80,7 @@ width: 100%;
 .col-ab-1, .col-ab-2, .col-ab-3, .col-ab-4, .col-ab-5, .col-ab-6, .col-ab-7, .col-ab-8,
 .col-ab-9, .col-ab-10, .col-ab-11, .col-ab-12 {
 float: left;
+height: 300px;
 }
 .col-ab-1 {
 width: 8.33%;
